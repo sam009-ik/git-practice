@@ -1,0 +1,15 @@
+Hi
+testing git
+Testing it further to see changes in in this file 
+i can see the difference with git diff file_name
+
+To save changes in the nano editor? CTRL + O
+How do i exit the nano editor? CTRL + X
+
+There are three stages: working directory -> staging area -> commit
+To add to staging area? git add file_name
+M- means meta data, to use with alt
+^ means control-key
+
+I can only see diff/changes before i add them to the staging area
+use? git commit -m "This is a commit message" to commit changes
