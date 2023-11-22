@@ -1,0 +1,11 @@
+Hi
+this is test2
+
+We can unstage changes? git reset HEAD file_name
+
+Let's stage this change and then unstage it
+
+we can print put the git log? git log file_name
+
+We can reset a commit by using the first 7 hashes of a unique commit? git reset 
+####### SHA hash 

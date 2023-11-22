@@ -13,3 +13,6 @@ M- means meta data, to use with alt
 
 I can only see diff/changes before i add them to the staging area
 use? git commit -m "This is a commit message" to commit changes
+
+use? git show HEAD file_name ? to see latest commit
+use? git checkout HEAD file_name ?to revert back a change
