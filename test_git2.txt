@@ -9,3 +9,10 @@ we can print put the git log? git log file_name
 
 We can reset a commit by using the first 7 hashes of a unique commit? git reset 
 ####### SHA hash 
+Once we reset any commit with a commit_SHA -> HEAD wil now point to that commit 
+effectively removing any changes/commits made to newer commits
+also takes in:
+--hard
+--soft
+--mixed
+Let's add this and commit the above, and then will make a test commit to undo
